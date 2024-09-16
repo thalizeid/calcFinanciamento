@@ -1,3 +1,5 @@
+<img alt="Static Badge" src="https://img.shields.io/badge/STATUS-FINALIZADO-GREEN">
+
 <h1 align="center">Calculadora de Financiamento</h1>
 
 <p align="center">
